@@ -1,7 +1,8 @@
 {
     "name": "webinify/cache-manager",
-    "description": "Cache manager",
+    "description": "PHP Memcached wrapper",
     "type": "library",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Webinify\\CacheManager\\": "src/"
