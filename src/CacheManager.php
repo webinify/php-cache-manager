@@ -25,6 +25,7 @@ class CacheManager implements CacheInterface
         return $this;
     }
 
+    
     public function get(string $key, callable $cache_cb = null, $flags = 0)
     {
         return $this->memCached->get($key, $cache_cb, $flags);
