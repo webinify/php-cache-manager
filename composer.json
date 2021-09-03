@@ -1,5 +1,5 @@
 {
-    "name": "webinify/cache-manager",
+    "name": "webinify/php-cache-manager",
     "description": "PHP Memcached wrapper",
     "type": "library",
     "minimum-stability": "dev",
