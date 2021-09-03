@@ -1,0 +1,19 @@
+{
+    "name": "webinify/cache-manager",
+    "description": "Cache manager",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Webinify\\CacheManager\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Webinify",
+            "email": "support@webinify.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
